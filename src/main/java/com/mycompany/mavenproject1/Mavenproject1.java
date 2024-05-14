@@ -12,5 +12,7 @@ public class Mavenproject1 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("Updating the file after pushing it to the remote repo");
+        System.out.println("I hope this works without errors");
     }
 }
