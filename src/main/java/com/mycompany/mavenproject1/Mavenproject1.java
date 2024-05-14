@@ -14,5 +14,6 @@ public class Mavenproject1 {
         System.out.println("Hello World!");
         System.out.println("Updating the file after pushing it to the remote repo");
         System.out.println("I hope this works without errors");
+        System.out.println("Another update to the file to be pushed to the remote");
     }
 }
